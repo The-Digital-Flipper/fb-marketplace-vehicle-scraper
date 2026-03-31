@@ -1,0 +1,7 @@
+FastAPI
+Uvicorn
+BeautifulSoup4
+requests
+python-dotenv
+gunicorn
+pydantic
